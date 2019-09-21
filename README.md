@@ -1,1 +1,1 @@
-# rsschool-cv
+[link to my cv](https://dgusa.github.io/rsschool-cv/cv)
