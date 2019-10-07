@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://dgusa.github.io/rsschool-cv/
